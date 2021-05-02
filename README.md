@@ -1,4 +1,4 @@
 C++ Data Structure 
 
 Gready Algorithm:
-238.cpp max number of meeting canvbe scheduled in a room.
+238.cpp max number of meeting can be scheduled in a room.
